@@ -1,1 +1,1 @@
-console.long ( 'hola mundo' );
+console.long ( 'hola mundo' ) 
